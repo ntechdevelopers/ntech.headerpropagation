@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ntech.HeaderPropagation", "Ntech.HeaderPropagation\Ntech.HeaderPropagation.csproj", "{4F1707FB-ED8D-4DC6-8ED5-A152F857F14E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ntech.ExternalAPI", "Ntech.ExternalAPI\Ntech.ExternalAPI.csproj", "{BC3870ED-5661-4194-9924-B8032D03072F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F1707FB-ED8D-4DC6-8ED5-A152F857F14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F1707FB-ED8D-4DC6-8ED5-A152F857F14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F1707FB-ED8D-4DC6-8ED5-A152F857F14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F1707FB-ED8D-4DC6-8ED5-A152F857F14E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3870ED-5661-4194-9924-B8032D03072F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3870ED-5661-4194-9924-B8032D03072F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3870ED-5661-4194-9924-B8032D03072F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3870ED-5661-4194-9924-B8032D03072F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96E5FC50-D368-4652-9AF0-F40A73BAA953}
+	EndGlobalSection
+EndGlobal
